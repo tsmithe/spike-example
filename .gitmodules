@@ -1,0 +1,4 @@
+[submodule "Spike"]
+	path = Spike
+	url = https://github.com/tsmithe/Spike.git
+	branch = ts_backends

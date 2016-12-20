@@ -1,0 +1,4 @@
+Note that this folder only contains an Inputs_9L9T symlink due to
+a limitation in CPUTest.
+
+Normally the Build directory would have an initially empty state.
